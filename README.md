@@ -19,5 +19,6 @@
 	- Lint hint Tools $ npm install jshint gulp-jshint gulp-csslint jshint-stylish
 		- jshint
 		- gulp-jshint
+		- jshint-stylish (styling jshint)
 		- gulp-csslint
-		- jshint-stylish
+		- csslint-stylish (styling csslint)
