@@ -11806,7 +11806,7 @@ return jQuery;
 },{}],3:[function(require,module,exports){
 module.exports = function(message) {
 	alert("*** "+message+" ***");
-}
+};
 },{}],4:[function(require,module,exports){
 var alertstars = require("./lib/alertstars");
 var _ = require("underscore");

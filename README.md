@@ -16,3 +16,8 @@
 		- $ npm install browserify (must install it locally for using task in gulp)
 		- vinyl-source-stream
 		- search gulp plugins for sass and gulp-sass
+	- Lint hint Tools $ npm install jshint gulp-jshint gulp-csslint jshint-stylish
+		- jshint
+		- gulp-jshint
+		- gulp-csslint
+		- jshint-stylish
