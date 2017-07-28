@@ -59,3 +59,6 @@ cp -r config cnf (copy folder to another folder | -r is used copy files of a fol
 1. [Find Modules](https://www.npmjs.org)
 2. lodash > npm install lodash
 3. module.exports
+4. Core modules
+	1. [File Stream](https://nodejs.org/api/fs.html#fs_fs_readfilesync_path_options) $ node module.js
+	2. Search yaml package in npmjs.org -> js-yaml -> $ npm install js-yaml
