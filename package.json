@@ -1,13 +1,18 @@
 {
   "name": "nodefrontend",
   "version": "1.0.0",
-  "description": "Node For frontend Developer",
-  "main": "index.js",
+  "description": "NodeJS for Frontend Development",
+  "main": "gulpfile.js",
   "dependencies": {
     "browserify": "^14.4.0",
+    "csslint-stylish": "^0.0.6",
+    "gulp-csslint": "^1.0.0",
     "gulp": "^3.9.1",
+    "gulp-jshint": "^2.0.4",
     "gulp-sass": "^3.1.0",
     "jquery": "^3.2.1",
+    "jshint": "^2.9.5",
+    "jshint-stylish": "^2.2.1",
     "underscore": "^1.8.3",
     "vinyl-source-stream": "^1.1.0"
   },
@@ -19,10 +24,6 @@
     "type": "git",
     "url": "git+https://github.com/sorabh86/NodeFrontend.git"
   },
-  "keywords": [
-    "nodejs",
-    "frontend"
-  ],
   "author": "Sorabh Sharma",
   "license": "ISC",
   "bugs": {

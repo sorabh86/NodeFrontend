@@ -1,3 +1,8 @@
+# Setup
+npm install
+# Watch error and combine
+npm watch
+
 # Git pushing tags
 - $ git push --tags
 
@@ -22,3 +27,4 @@
 		- jshint-stylish (styling jshint)
 		- gulp-csslint
 		- csslint-stylish (styling csslint)
+
