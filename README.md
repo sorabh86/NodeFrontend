@@ -46,3 +46,4 @@ cp -r config cnf (copy folder to another folder | -r is used copy files of a fol
 ## NPM
 1. [Find Modules](https://www.npmjs.org)
 2. lodash > npm install lodash
+3. module.exports
