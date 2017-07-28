@@ -33,5 +33,16 @@ mv file.txt config/file.txt (move copy of a file to another file with same conte
 cp package.json bower.json (copy file into another file)
 cp -r config cnf (copy folder to another folder | -r is used copy files of a folder)
 
+## Client Server
+1. No Dom Object.
+2. Array.isArray(arr);.
+3. Object.keys(obj);.
+4. Object.keys(obj).forEach(function(key){});.
+5. Node > globals
+6. Node > process.argv
+7. Node > __filename
+8. Node > __dirname
 
-
+## NPM
+1. [Find Modules](https://www.npmjs.org)
+2. lodash > npm install lodash
