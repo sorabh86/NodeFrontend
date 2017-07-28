@@ -14,3 +14,5 @@
 		- npm install gulp (local project)
 		- $ touch gulpfile.js (create a gulp file)
 		- $ npm install browserify (must install it locally for using task in gulp)
+		- vinyl-source-stream
+		- search gulp plugins for sass and gulp-sass
