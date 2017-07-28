@@ -38,8 +38,10 @@ echo "add more text" >> file.txt (create or append text to the file)
 
 cat file.txt (echo content of file)
 
-mv file.txt config/file.txt (move copy of a file to another file with same content).
-cp package.json bower.json (copy file into another file).
+mv file.txt config/file.txt (move copy of a file to another file with same content)
+
+cp package.json bower.json (copy file into another file)
+
 cp -r config cnf (copy folder to another folder | -r is used copy files of a folder)
 
 
