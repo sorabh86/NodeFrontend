@@ -1,18 +1,18 @@
-#Installing nodejs
+# Installing nodejs
 
-##checking node
-###>> unix environment
+## checking node
+### >> unix environment
 which npm
 which node 
 
-###>> dos environment
+### >> dos environment
 where npm
 where node 
 
-##exporting path
+## exporting path
 export PATH=/usr/local/bin:$PATH
 
-##Running NodeJs Environment
+## Running NodeJs Environment
 node [file.name | optional]
 CTRL + C for quit.
 
